@@ -1,0 +1,25 @@
+./hw_1/part_1.py
+1
+23
+345
+4567
+56789
+1       1
+2       23
+3       345
+4       4567
+5       56789
+
+./hw_1/part_1.py // empty stdin
+
+./hw_1/part_1.py test.txt
+1       Cat
+2       Dog
+3       Run
+4       Jump
+5       Book
+6       Sun
+7       Hat
+
+./hw_1/part_1.py jlfheg4
+Error: File 'jlfheg4' not found.

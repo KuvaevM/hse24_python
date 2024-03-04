@@ -1,0 +1,101 @@
+./hw_1/part_2.py
+Dog
+Cat
+Run
+Jump
+Book
+Sun
+Hat
+Apple
+Tree
+House
+Ball
+Happy
+Music
+Flower
+Water
+Laugh
+Sleep
+Bird
+Cloud
+Moon
+
+Вывод:
+Jump
+Book
+Sun
+Hat
+Apple
+Tree
+House
+Ball
+Happy
+Music
+Flower
+Water
+Laugh
+Sleep
+Bird
+Cloud
+Moon
+
+./hw_1/part_2.py test.txt test2.txt
+==> test.txt <==
+Cat
+Dog
+Run
+Jump
+Book
+Sun
+Hat
+==> test2.txt <==
+Tree
+House
+Ball
+Happy
+Music
+Flower
+Water
+Laugh
+Sleep
+Chair
+
+./hw_1/part_2.py
+Apple
+Tree
+House
+Ball
+Happy
+Music
+Flower
+Water
+Laugh
+Sleep
+Chair
+
+Вывод:
+Apple
+Tree
+House
+Ball
+Happy
+Music
+Flower
+Water
+Laugh
+Sleep
+Chair
+
+./hw_1/part_2.py jdsnvjnd fejgnfjvf test.txt
+==> jdsnvjnd <==
+Error: File 'jdsnvjnd' not found.
+==> fejgnfjvf <==
+Error: File 'fejgnfjvf' not found.
+==> test.txt <==
+Cat
+Dog
+Run
+Jump
+Book
+Sun
+Hat

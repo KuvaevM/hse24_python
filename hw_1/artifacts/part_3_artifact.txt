@@ -1,0 +1,16 @@
+./hw_1/part_3.py
+sdkjnc
+fkjvn
+        2       2       13
+
+./hw_1/part_3.py test.txt test2.txt
+7 7 30 test.txt
+11 11 65 test2.txt
+18 18 95 total
+
+./hw_1/part_3.py test.txt test2.txt shfdgbrf dhfg
+7 7 30 test.txt
+11 11 65 test2.txt
+Error: File 'shfdgbrf' not found.
+Error: File 'dhfg' not found.
+18 18 95 total
