@@ -1,0 +1,11 @@
+\begin{tabular}{c | c | c}
+\hline
+Name & Age & Gender \\
+\hline
+Alice & 30 & Female \\
+\hline
+Bob & 35 & Male \\
+\hline
+Charlie & 25 & Male \\
+\hline
+\end{tabular}
