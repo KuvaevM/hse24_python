@@ -1,0 +1,2 @@
+Hash of AB: 20504
+Hash of CD: 19752
