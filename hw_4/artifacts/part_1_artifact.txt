@@ -1,0 +1,10 @@
+Synchronous execution:
+Synchronous: 3.0903728008270264 seconds
+
+
+Threading execution:
+Threading: 36.67308950424194 seconds
+
+
+Multiprocessing execution:
+Multiprocessing: 6.7237489223480225 seconds
